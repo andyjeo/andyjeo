@@ -1,5 +1,5 @@
 <div align="center">
-    <h3>I don't really know what I'm doing, don't expect too much.</h1>
+    <h3>I'm a student, designer, and a developer. I'm not very good at any of them, but I know a bit of everything.</h1>
     </br>
     </br>
     <table>
