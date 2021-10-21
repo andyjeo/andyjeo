@@ -1,5 +1,5 @@
 <div align="center">
-    <h3>Why is it so hard to get flutter to work.</h1>
+    <h3>Why is it so hard to get flutter to work; react native is the way.</h1>
     </br>
     </br>
     <table>
