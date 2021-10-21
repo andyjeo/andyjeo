@@ -1,5 +1,5 @@
 <div align="center">
-    <h3>I'm a student, designer, and a developer. I'm not very good at any of them, but I know a bit of everything.</h1>
+    <h3>Why is it so hard to get flutter to work.</h1>
     </br>
     </br>
     <table>
