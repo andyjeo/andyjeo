@@ -1,5 +1,5 @@
 <div align="center">
-    <h3>My repositories are going under construction....</h1>
+    <h3>Boostrap is for people that doesn't know how to write css</h1>
     </br>
     </br>
     <table>
