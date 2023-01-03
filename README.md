@@ -1,5 +1,5 @@
 <div align="center">
-    <h3>x86 assembly enthusiast</h1>
+    <h1>x86 assembly enthusiast</h1>
     </br>
     </br>
     <table>
